@@ -1,24 +1,10 @@
 {
-  "users": [
+  "tasks": [
     {
-      "id": 1,
-      "tasks": [
-        {
-          "id": 1,
-          "title": "delectus aut autem",
-          "completed": false
-        }
-      ]
-    },
-    {
+      "userId": 1,
       "id": 2,
-      "tasks": [
-        {
-          "id": 2,
-          "title": "delectus aut autem",
-          "completed": false
-        }
-      ]
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
     }
   ]
 }
