@@ -461,28 +461,4 @@
     "completed": true,
     "userId": 17
   },
-  {
-    "id": 78,
-    "title": "Bake something I've never tried before",
-    "completed": true,
-    "userId": 27
-  },
-  {
-    "id": 79,
-    "title": "Organize dresser",
-    "completed": false,
-    "userId": 41
-  },
-  {
-    "id": 80,
-    "title": "Fix something that's broken in house",
-    "completed": false,
-    "userId": 43
-  },
-  {
-    "id": 81,
-    "title": "Play a video game",
-    "completed": false,
-    "userId": 27
-  }
 ]
